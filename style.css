@@ -1,0 +1,8 @@
+selector {
+	property: value;
+}
+
+p {
+	color: red;
+	background-color: pink;
+}
